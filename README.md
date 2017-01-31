@@ -8,7 +8,7 @@ See the [EditorConfig site](http://editorconfig.org/)
 
 ## Our development language and environment
 
-* [CentOS]](https://www.centos.org/)
+* [CentOS](https://www.centos.org/)
 * [Docker](https://www.docker.com/)
 * [Apache](https://httpd.apache.org/)
 * [nginx](https://nginx.org/)
