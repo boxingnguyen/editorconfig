@@ -8,16 +8,17 @@ See the [EditorConfig site](http://editorconfig.org/)
 
 ## Our development language and environment
 
-* [CentOS](https://www.centos.org/)
-* [Docker](https://www.docker.com/)
-* [Apache](https://httpd.apache.org/)
-* [nginx](https://nginx.org/)
-* [PHP](http://php.net/)
-* [Golang](https://golang.org/)
-* [Node.js](https://nodejs.org/ja/)
-* [MySQL](https://www.mysql.com/)
-* [PostgreSQL](https://www.postgresql.org/)
-* [mongoDB](https://www.mongodb.com/)
+* [CentOS](https://github.com/CentOS)
+* [Docker](https://github.com/docker)
+* [Apache](https://github.com/apache)
+* [nginx](https://github.com/nginx)
+* [PHP](https://github.com/php)
+* [Golang](https://github.com/golang)
+* [Node.js](https://github.com/nodejs)
+* [MySQL](https://github.com/mysql)
+* [PostgreSQL](https://github.com/postgres)
+* [mongoDB](https://github.com/mongodb)
+* [Swift](https://github.com/apple/swift)
 
 ## About Tribal Media House
 

@@ -30,6 +30,10 @@ indent_size  = 4
 indent_style = space
 indent_size  = 4
 
+[*.swift]
+indent_style = space
+indent_size  = 4
+
 [*.go]
 indent_style = tab
 tab_witdh    = 4
