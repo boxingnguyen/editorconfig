@@ -6,6 +6,10 @@ charset                  = utf-8
 trim_trailing_whitespace = true
 insert_final_newline     = true
 
+[*.go]
+indent_style = tab
+tab_witdh    = 4
+
 [*.php]
 indent_style = space
 indent_size  = 4
@@ -33,10 +37,6 @@ indent_size  = 4
 [*.swift]
 indent_style = space
 indent_size  = 4
-
-[*.go]
-indent_style = tab
-tab_witdh    = 4
 
 [*.[ch]]
 indent_style = space
